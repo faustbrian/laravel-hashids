@@ -1,13 +1,13 @@
 # Laravel Hashids
 
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/kodekeep/laravel-hashids/run-tests?label=tests)](https://github.com/kodekeep/laravel-hashids/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Code Coverage](https://badgen.now.sh/codecov/c/github/kodekeep/laravel-hashids)](https://codecov.io/gh/kodekeep/laravel-hashids)
-[![Minimum PHP Version](https://badgen.net/packagist/php/kodekeep/laravel-hashids)](https://packagist.org/packages/kodekeep/laravel-hashids)
 [![Latest Version](https://badgen.net/packagist/v/kodekeep/laravel-hashids)](https://packagist.org/packages/kodekeep/laravel-hashids)
+[![Software License](https://badgen.net/packagist/license/kodekeep/laravel-hashids)](https://packagist.org/packages/kodekeep/laravel-hashids)
+[![Build Status](https://img.shields.io/github/workflow/status/kodekeep/laravel-hashids/run-tests?label=tests)](https://github.com/kodekeep/laravel-hashids/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/laravel-hashids)](https://codeclimate.com/github/kodekeep/laravel-hashids)
+[![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/laravel-hashids)](https://codeclimate.com/github/kodekeep/laravel-hashids)
 [![Total Downloads](https://badgen.net/packagist/dt/kodekeep/laravel-hashids)](https://packagist.org/packages/kodekeep/laravel-hashids)
-[![License](https://badgen.net/packagist/license/kodekeep/laravel-hashids)](https://packagist.org/packages/kodekeep/laravel-hashids)
 
-> [Hashids](https://hashids.org/) integration for [Laravel](https://laravel.com/).
+This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides a [Hashids](https://hashids.org/) integration for [Laravel](https://laravel.com/).
 
 ## Installation
 
@@ -47,6 +47,10 @@ If you discover a security vulnerability within this package, please send an e-m
 
 This project exists thanks to all the people who [contribute](../../contributors).
 
+## Support Us
+
+We invest a lot of resources into creating and maintaining our packages. You can support us and the development through [GitHub Sponsors](https://github.com/sponsors/faustbrian).
+
 ## License
 
-Mozilla Public License Version 2.0 (MPL-2.0). Please see [License File](LICENSE.md) for more information.
+Laravel Hashids is an open-sourced software licensed under the [MPL-2.0](LICENSE.md).
